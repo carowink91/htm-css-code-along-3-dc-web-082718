@@ -51,5 +51,6 @@ figcaption {
 /* Descendent Selector */
 
 #logo h1 { /*  while only style <h1> if inside the id="logo" */
+  font-family: 'Clicker Script', cursive;
 
 }
