@@ -26,5 +26,5 @@ figcaption {
   font-family: Georgia, "New Times Roman", serif;*/
   font: normal 0.75em/1.5em Georgia, "New Times Roman", serif;
   color: red; /* or #AACC77 (or #AC7 shorthand; but #88A7DF has no shorthand, for example)
-                or rgba(255, )
+                or rgba(255,0,0,1 )
 }
