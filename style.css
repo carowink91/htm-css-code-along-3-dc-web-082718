@@ -46,5 +46,10 @@ figcaption {
 
 #logo {/* select elements with id="logo" */
   background: aqua;
+}
+
+/* Descendent Selector */
+
+#logo h1 { /*  while only style <h1> if inside the id="logo"
 
 }
